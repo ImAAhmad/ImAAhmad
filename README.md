@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Havoc**
 
-- 🌱 I’m currently learning **Js, C++,C,Python,etc.**
+- 🌱 I’m currently learning **Js , C++ , C , Python , etc . **
 
 - ⚡ Fun fact **Currently in Collage studying Computer Science, and Cyber Security**
 
