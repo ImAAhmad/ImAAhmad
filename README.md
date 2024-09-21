@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Verity</h1>
 <h3 align="center">Developer From the USA, i Speak English and Arabic, I Used to Develop FiveM and Now im Learning More Languages and Studying Computer Science In College. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matto-devs&label=Profile%20views&color=0e75b6&style=flat" alt="matto-devs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=veritiae&label=Profile%20views&color=0e75b6&style=flat" alt="veritiae" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matto-devs" alt="matto-devs" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veritiae" alt="veritiae" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_itsmatto" target="blank"><img src="https://img.shields.io/twitter/follow/_itsmatto?logo=twitter&style=for-the-badge" alt="_itsmatto" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Veritiae" target="blank"><img src="https://img.shields.io/twitter/follow/veritiae?logo=twitter&style=for-the-badge" alt="veritiae" /></a> </p>
 
 - 🔭 I’m currently working on **Havoc**
 
