@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Verity</h1>
+<h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">Developer From the USA, i Speak English and Arabic, I Used to Develop FiveM and Now im Learning More Languages and Studying Computer Science In College. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veritiae&label=Profile%20views&color=0e75b6&style=flat" alt="veritiae" /> </p>
