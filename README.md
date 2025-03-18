@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ImAAhmad&label=Profile%20views&color=0e75b6&style=flat" alt="ImAAhmad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ImAAhmad" alt="ImAAhmad" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ImAAhmad" alt="ImAAhmad"er /></a> </p>
 
-<p align="left"> <a href="[https://twitter.com/Veritiae](https://x.com/ImAhmadd_)" target="blank"><img src="https://img.shields.io/twitter/follow/ImAAhmad?logo=twitter&style=for-the-badge" alt="ImAAhmad" /></a> </p>
+<p align="left"> <a href="https://x.com/ImAhmadd_" target="blank"><img src="https://img.shields.io/twitter/follow/ImAAhmad?logo=twitter&style=for-the-badge" alt="ImAAhmad_" /></a> </p>
 
 - 🔭 I’m currently working on **Havoc**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://twitter.com/veritiae](https://x.com/ImAhmadd_)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ImAhmadd_" height="30" width="40" /></a>
+<a href="https://x.com/ImAhmadd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ImAhmadd_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
